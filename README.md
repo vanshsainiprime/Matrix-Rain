@@ -4,12 +4,6 @@ A fun little Matrix-style terminal rain animation made with Python.
 I made this as a **fun activity **. :D
 
 ---
-
-## Preview
-
-![Matrix Rain Preview](matrix-rain.gif)
----
-
 ## Features
 
 - Matrix-style falling rain animation
