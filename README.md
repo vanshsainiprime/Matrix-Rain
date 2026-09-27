@@ -7,8 +7,7 @@ I made this as a **fun activity **. :D
 
 ## Preview
 
-![Matrix Rain Preview](image.png)
-
+![Matrix Rain Preview](matrix-rain.gif)
 ---
 
 ## Features
